@@ -1,0 +1,15 @@
+1. Flask API Deployment:
+Service: Use AWS EC2 instance to deploy the application
+
+2. Database Management:
+Service: Use AWS RDS (PostgreSQL) for a fully-managed database.
+Steps:
+Create an RDS instance.
+Update database URI to point to RDS.
+
+
+3. Scheduled Data Ingestion:
+Service: Use AWS Lambda for serverless data ingestion.
+
+Have not used this step earlier but can explore and read more about it.
+
